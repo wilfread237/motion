@@ -3,7 +3,6 @@ import './App.css'
 import Cards from './Components/Cards';
 
 function App() {
-  const [card, setCards] = useState();
 
   return (
     <div className='flex flex-col justify-center items-center min-h-screen'>
