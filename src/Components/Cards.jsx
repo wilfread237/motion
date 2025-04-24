@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Edit, Copy, Star, Share2, Trash, MoreVertical , CircleX} from "lucide-react";
+import { Edit, Copy, Star, Share2, Trash, MoreVertical , CircleX } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 
 export default function Cards() {
